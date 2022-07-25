@@ -77,10 +77,16 @@ https://ipfs.io/ipfs/QmRFfMR3nHqYgBc9LGC5fz9YihxbwwXf7iZbpax3auxXP4
 # deploy in IPFS witgh fleek
 https://fleek.co
 
+* * * .
 inside nextjs project root folder, after create empty repo in github and sign up in fleek with github account
+* * * .
 
-
-
+git init -b main
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/albatros-github/nextjs-smartcontract-lottery-fcc.git
+git branch -M main
+git push -u origin main
 
 ## VSCode extentions
 postcss lenguaje suppolt
