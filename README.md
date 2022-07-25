@@ -88,6 +88,11 @@ git remote add origin https://github.com/albatros-github/nextjs-smartcontract-lo
 git branch -M main
 git push -u origin main
 
+* update
+git add .
+git commit -m "fix"
+git push origin main
+
 ## VSCode extentions
 postcss lenguaje suppolt
 Tailwind CSS IntelliSense
