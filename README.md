@@ -74,7 +74,7 @@ https://ipfs.io/ipfs/<CID Hash>
 https://ipfs.io/ipfs/QmRFfMR3nHqYgBc9LGC5fz9YihxbwwXf7iZbpax3auxXP4
 
 
-# deploy in IPFS witgh fleek
+# deploy in IPFS with fleek
 https://fleek.co
 
 * * * .
